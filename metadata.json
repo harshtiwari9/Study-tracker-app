@@ -1,0 +1,6 @@
+{
+  "name": "StudyPulse",
+  "description": "Study session timer, subject-wise goal tracking, and detailed weekly analytics for Physics, Chemistry, Maths, and Self Study.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

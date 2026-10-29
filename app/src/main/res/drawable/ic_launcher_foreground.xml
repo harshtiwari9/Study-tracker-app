@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:pivotX="54"
+        android:pivotY="54">
+        <!-- Open book left page -->
+        <path
+            android:fillColor="#38BDF8"
+            android:pathData="M51,68 C42,65 32,65 25,68 L25,44 C32,41 42,41 51,44 Z" />
+        <!-- Open book right page -->
+        <path
+            android:fillColor="#818CF8"
+            android:pathData="M57,68 C66,65 76,65 83,68 L83,44 C76,41 66,41 57,44 Z" />
+        <!-- Book spine / center line -->
+        <path
+            android:fillColor="#F8FAFC"
+            android:pathData="M52,43 h4 v27 h-4 Z" />
+        <!-- Glowing Hourglass / Pulse emblem above book -->
+        <path
+            android:fillColor="#10B981"
+            android:pathData="M46,26 h16 v3 l-5,5 5,5 v3 h-16 v-3 l5,-5 -5,-5 Z" />
+        <!-- Floating knowledge spark / atom ring -->
+        <path
+            android:fillColor="#F59E0B"
+            android:pathData="M54,20 a3,3 0 1,0 0.001,0 Z" />
+        <path
+            android:fillColor="#F59E0B"
+            android:pathData="M38,33 a2,2 0 1,0 0.001,0 Z" />
+        <path
+            android:fillColor="#F59E0B"
+            android:pathData="M70,33 a2,2 0 1,0 0.001,0 Z" />
+        <!-- Bottom glow accent -->
+        <path
+            android:fillColor="#6366F1"
+            android:pathData="M36,73 h36 v3 h-36 Z" />
+    </group>
+</vector>
